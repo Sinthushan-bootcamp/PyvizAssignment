@@ -8,7 +8,7 @@ The Project is divided up as follows. The rental analysis notebook has all the i
 
 The final Dashboard looks like this, as you can see three of the plots did not show up (neighbourhood_map, average_house_value_snapshot, sunburts_cost_analysis), but they can be viewed under the debug or in the rental analysis with the exception of the sunburst plot which I was unable to get to show properly. 
 
-![Dashboard](dashboard.GIF?raw=true "Dashboard")
+![Dashboard](dashboard.gif?raw=true "Dashboard")
 
 ## Dependencies:
 pandas
